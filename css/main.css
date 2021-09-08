@@ -1,15 +1,3 @@
-/*------------------------------------------------------------------
-Project:  ComingSoon
-Version:  
-Last change:  
-Assigned to:  Bach Le
-Primary use:  
--------------------------------------------------------------------*/
-
-
-
-/*//////////////////////////////////////////////////////////////////
-[ FONT ]*/
 
 @font-face {
   font-family: Poppins-Regular;
@@ -468,10 +456,10 @@ Primary use:
   top: 0;
   left: 0;
   background: #000;
-  background: -webkit-linear-gradient(top, #000, #ffd700);
-  background: -o-linear-gradient(top, #000, #ffd700);
-  background: -moz-linear-gradient(top, #ffd700, #000);
-  background: linear-gradient(top, #ffd700, #000);
+  background: -webkit-linear-gradient(top, #000000, #fff);
+  background: -o-linear-gradient(top, #000, #fff);
+  background: -moz-linear-gradient(top, #fff, #000);
+  background: linear-gradient(top, #fff, #000);
   opacity: 0.8;
 }
 
